@@ -6,4 +6,4 @@
 <div align="justify"> SIED-Thai is the dataset used in the paper Leveraging Enhanced BERT Models for Detecting Suicidal Ideation in Thai Social Media Content amidst COVID-19. It was constructed from a collection of 399,693 tweets in Thai language from X (Twitter) using the search API between 01 January, 2019, and 31 December, 2020. It contains annotated 2,400 tweets in both suicide ideation and emotions. They were collect using hashtags related to suicide and depression. </div> <br>
 
 If you wish to use this dataset, please cite us: <br>
-> pending
+> pending citation
